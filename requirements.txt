@@ -5,10 +5,9 @@ seaborn
 scikit-learn
 openpyxl
 jupyter
-streamlit
+streamlit>=1.35.0
 joblib
 openai
 python-dotenv
 plotly
 streamlit-option-menu
-altair<5.0.0
