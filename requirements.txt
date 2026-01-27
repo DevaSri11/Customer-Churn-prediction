@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+jupyter
+streamlit
+joblib
+openai
+python-dotenv
+plotly
+streamlit-option-menu
+altair<5.0.0
