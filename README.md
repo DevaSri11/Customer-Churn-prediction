@@ -87,7 +87,7 @@ For an individual user, the system displays:
   <li>Personalized retention strategies</li> 
 </ul> 
 Example insights:
-<i>“User is inactive for more than 21 days”</i>
+<i>“If a user struggles with free DSA problems, the AI suggests granting temporary access to solutions for two days to improve engagement.”</i>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/770b2b28-19dc-46f6-8da7-f29723aeb775" width="48%" />
