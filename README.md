@@ -138,6 +138,14 @@ Customer-Churn-Prediction/
 └── README.md
 </pre>
 
+The folder structure consists of the following components:
+- `data`: Dataset used for training and testing the model.
+- `notebooks`: Jupyter Notebooks used for data exploration and model development.
+- `requirements.txt`: List of dependencies required to run the system.
+- `src`: Source code for the backend and frontend of the system.
+- `ui`: User interface components built using Streamlit.
+- `DEPLOYMENT.md`: Deployment instructions for the system.
+
 ## Installation & Setup
 
 1. **Clone the repository**:
